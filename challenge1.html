@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script defer>
+
+function scores() {
+  
+  let marks = prompt('Enter marks');
+
+  let grade = document.getElementById('grade').innerText = `${marks}`
+
+  marks = parseInt(marks);
+  {
+
+  }
+   if (marks > 79) {
+  document.writeln (`Your marks = ${marks}\n Grade = A`);
+
+  }else if (marks >= 60 && marks <= 79) {
+  docment.writeln (`Your marks = ${marks}\n Grade = 'B'`)
+  
+  }else if (marks >= 49 && marks <= 59) {
+  document.writeln (`Your marks = ${marks}\n Grade = 'C'`);
+  
+  }else if (marks>=40 && marks <= 49){
+  document.writeln (`Your marks = ${marks}\n Grade = 'D'`);
+
+  } else{
+  document.writeln (`You have Fail\n Grade = 'E'`);
+  }
+}
+  </script>
+
+</head>
+<body>
+  <h1>Grade Generator</h1>
+  <!-- <input id = "grade"> -->
+   <h1 id="grade"></h1>
+  <button onclick = "scores()">Grade</button>
+
+</body>
+</html>
