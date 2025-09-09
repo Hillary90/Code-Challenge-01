@@ -23,5 +23,5 @@ if (speed < speedLimit) {
 }
 
 // test the speed limit.
-console.log(Limitedspeed(80))
+console.log(Limitedspeed(100))
 console.log(Limitedspeed(49))
