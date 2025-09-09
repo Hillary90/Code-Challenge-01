@@ -6,22 +6,30 @@
   <title>Document</title>
   <style>
     body {
-      display: flex;
-      flex-direction: column;
-      align-items: center
+      display: flex;              /* Enables flexbox layout */
+      flex-direction: column;    /* Making items to align bellow one another */
+      align-items: center        /* Centers items horizontally */
+    }
+
+    button {
+      border-radius: 12px;         /* Making the corners round*/
+      padding: 10px 20px;          /*Adding space inside the button*/
+      border: 2px solid #333;    /*making its outline visible*/
+
     }
     
   </style>
 
   <script defer>
   function scores() {
+    // Ask the user to enter marks
     let marks = prompt('Enter marks');
     let grade = document.getElementById('grade').innerText = `${marks}`
-    
+    // Convert the entered marks from string to integer
     marks = parseInt(marks);
   {
 
-  }
+  } // Check the marks and assign a grade
    if (marks > 79) {
 
     document.writeln (`Your marks = ${marks}<br>Grade = A`);
@@ -38,7 +46,7 @@
 
     document.writeln (`Your marks = ${marks}<br>Grade = D`);
 
-    
+
   } else{
     document.writeln (`You have Fail.<br>Grade = E`);
   }
@@ -47,8 +55,10 @@
 
 </head>
 <body>
+  <!-- Heading of the project -->
   <h1>Grade Generator</h1>
    <h1 id="grade"></h1>
+   <!-- Create a button  -->
   <button onclick = "scores()">Grade</button>
 
 </body>
