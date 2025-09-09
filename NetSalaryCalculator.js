@@ -56,5 +56,5 @@ function calcNetSalary(basicSalary, benefits) {
   };
 }
 // Test
-let result = calcNetSalary(60000, 10000); // Basic = 60,000; Benefits = 10,000 Total salary = 70,000
+let result = calcNetSalary(60000, 10000); // Basic = 60,000; Benefits = 10,000 Total Salary = 70,000
 console.log(result);
