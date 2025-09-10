@@ -20,8 +20,11 @@ Git
 To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository
+  
 
-Open your terminal or command prompt and run the following command to download the project:
+- Copy the bellow url
+
+- Open your terminal or command promptand run the following command to download the project:
 
 ```
 
