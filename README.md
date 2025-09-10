@@ -16,7 +16,8 @@ It's a webpage that contain code challenges that is used to solve technical issu
 You use git clone to be able to download the documents in the GitHub
 
 ## Installation Requirements
-Git
+- Git
+- Node.js
 
 ### Installation instruction
 
