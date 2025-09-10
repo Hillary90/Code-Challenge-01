@@ -2,7 +2,7 @@ function calcNetSalary(basicSalary, benefits) {
   //  Gross salary
   let grossSalary = basicSalary + benefits;
 
-  //  Tier1 and Tier2 NssfDeduction i used Math.min so that i can get the minimum number for the tie1 and tier2
+  //  Tier1 and Tier2 NssfDeduction i used Math.min so that it can compare two numbers and  get the minimum number for the tie1 and tier2
   let pensionablePay = Math.min (grossSalary, 72000);
   let Tier1 = Math.min (pensionablePay, 8000) * 0.06;
   let Tier2 = 0;
