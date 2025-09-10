@@ -37,7 +37,7 @@ git clone https://github.com/Hillary90/Code-Challenge-01.git
    - Challenge 2 and 3: You can run locally in your code editor.
 
 # Live Link
-[Git https://hillary90.github.io/Code-Challenge-01/][https://hillary90.github.io/Code-Challenge-01/]
+[Git https://hillary90.github.io/Code-Challenge-01/] (gh-pages link)
 
 ## Technologies used
 - HTML
