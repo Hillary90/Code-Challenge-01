@@ -6,9 +6,9 @@
 
 ## Description
 It's a webpage that contain code challenges that is used to solve technical issues in different areas.
-- Student Grade Generator: Simple grade calculator that prompt the user to enter marks between 0 and 100,if the use enters the number it diplays the grade
-- Salary Calculator: A program thats calculates Net salary,PAYE,SHIF,NSSF,and Housing levy for an individul based on the KRA 2025 taxes when you enter the basic salary plus the benefits .
-- Grade Generator A simple program that checks if the speed limit of a driver and diplays points based on the drivers speed.
+- Student Grade Generator: Simple grade calculator that prompt the user to enter marks between 0 and 100,if the use enters the number it display the grade
+- Salary Calculator: A program thats calculates Net salary,PAYE,SHIF,NSSF,and Housing levy for an individual based on the KRA 2025 taxes when you enter the basic salary plus the benefits .
+- Grade Generator A simple program that checks if the speed limit of a driver and display points based on the drivers speed.
 ## Installation
 You use git clone to be able to download the documents in the GitHub
 
