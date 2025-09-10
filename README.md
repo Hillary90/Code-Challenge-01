@@ -16,20 +16,27 @@ You use git clone to be able to download the documents in the GitHub
 Git
 
 ### Installation instruction
-```
-https://github.com/Hillary90/Code-Challenge-01.git
+
+To get a local copy up and running, follow these simple steps.
+
+1. Clone the repository
+
+Open your terminal or command prompt and run the following command to download the project:
 
 ```
-## Installation guide
 
+git clone <https://github.com/Hillary90/Code-Challenge-01.git>
+
+
+```
 # Live Link
 [Git](gh-pages link)
 
 ## Technologies used
-HTML
-CSS
-Github
-Javascript
+- HTML
+- CSS
+- Github
+- Javascript
 
 ## Support and contact details
 github.com/hillary@90
