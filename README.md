@@ -25,7 +25,7 @@ Open your terminal or command prompt and run the following command to download t
 
 ```
 
-git clone <https://github.com/Hillary90/Code-Challenge-01.git>
+git clone https://github.com/Hillary90/Code-Challenge-01.git
 
 
 ```
