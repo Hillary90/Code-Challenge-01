@@ -22,7 +22,7 @@ Git
 
 To get a local copy up and running, follow these simple steps.
 
-1. Copy adn Clone the repository
+1. Copy and clone the bellow repository
    - Open your terminal or command promptand run the following command to download the project:
 
 ```
@@ -36,7 +36,7 @@ git clone https://github.com/Hillary90/Code-Challenge-01.git
    - Challenge 2 and 3: You can run locally in your code editor.
 
 # Live Link
-[Git](gh-pages link)
+[Git]( https://hillary90.github.io/Code-Challenge-01/)
 
 ## Technologies used
 - HTML
