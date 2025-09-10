@@ -19,12 +19,10 @@ Git
 
 To get a local copy up and running, follow these simple steps.
 
-1. Clone the repository
-  
+1. Copy the bellow url
 
-- Copy the bellow url
-
-- Open your terminal or command promptand run the following command to download the project:
+2. Clone the repository
+   - Open your terminal or command promptand run the following command to download the project:
 
 ```
 
@@ -32,6 +30,10 @@ git clone https://github.com/Hillary90/Code-Challenge-01.git
 
 
 ```
+1. Run programs in your code editor:
+   - challenge.1: You must use the live serve.
+   - Challenge 2 and 3: You can run locally in your code editor.
+
 # Live Link
 [Git](gh-pages link)
 
